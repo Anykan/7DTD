@@ -1,7 +1,7 @@
 Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 airConditioner,blocks,Block,KgNone,Air Conditioner,Climatiseur,Klimaanlage,,Aire acondicionado,Klimatyzator
 airConditionVentFan,blocks,Block,New,Vent Fan,,,,,
-airConditionVentFanDouble,blocks,Block,New,"Vent Fan, Double",,,,,
+airConditionVentFanDouble,blocks,Block,New,"Vent Fan, Double",,"Ventilator, doppelt",,,
 alphabetLetterSignGroupDesc,blocks,Block,EnChanged,Create your own billboards with these single letter signs and numbers.,Créez vos propres panneaux grâce à ces lettres.,Erstelle mit diesen Buchstaben und Zahlen deine eigenen Plakatwände.,,Crea tus propios carteles con estas letras.,Stwórz własne billboardy z tymi pojedynczymi znakami.
 arrowHelper,blocks,Block,New,Arrow Helper,,,,,
 arrowSlit,blocks,Block,New,Arrow Slit,,,,,
