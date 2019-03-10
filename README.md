@@ -1,2 +1,2 @@
-# 7DTD
-7DTD
+# 7 Days to die
+German translation
